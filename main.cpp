@@ -15,7 +15,7 @@ void init(){
 
 }
 //------------------------------  reshapeFunc  ---------------------------------
-//commit 6
+//commit 7
 void reshapeFunc (int w, int h)
 {
     glViewport(0,0,(GLsizei)w,(GLsizei)h);
